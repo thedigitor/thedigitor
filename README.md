@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Goodness Nwadibie
 ==========================================================================================================================================
 
-AI Data Analyst
+Data Analyst and Tech Writer
 ---------------
 
-I use data analysis and AI workflow automation to deliver solution that solves business problem.
+I use data analysis and user friendly content to deliver solution that solves business problem.
 
 * 🌍  I'm based in Abuja Nigeria
 * ✉️  You can contact me at [nwadibiegoodness@gmail.com](mailto:nwadibiegoodness@gmail.com)
