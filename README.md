@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst + Tech Writer
 ---------------
 
-I love helping businesses understand their data while still figuring out my life. At least one of us get to make better decision.
+I help you understand your business data and what to do next, while still figuring out my life. At least one of us get to make better decisions.
 
 * 🌍  I'm based in Abuja Nigeria
-* ✉️  You can contact me at [nwadibiegoodness@gmail.com](mailto:nwadibiegoodness@gmail.com)
+* ✉️  You can contact me here: [nwadibiegoodness@gmail.com](mailto:nwadibiegoodness@gmail.com)
 * 👥  I'm looking to collaborate on Interesting Projects
 
 🌐 Socials:
