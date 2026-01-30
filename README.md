@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Goodness Nwadibie
 ==========================================================================================================================================
 
-Data Analyst and Tech Writer for SaaS Brands
+I'm a Data Analyst and Tech Writer for SaaS Brands
 ---------------
 
 I help SaaS brands understand their sales and marketing data to drive business growth.
