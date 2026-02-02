@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Data Analyst and Tech Writer for SaaS Brands
 ---------------
 
-I help SaaS brands understand their sales and marketing data to drive business growth.
+I help SaaS founders understand their overall business data to make better decision. I help them see the story behind their business data to drive growth, optimize conversion and scale revenue.
 
 * 🌍  I'm based in Abuja Nigeria
 * ✉️  You can contact me here: [nwadibiegoodness@gmail.com](mailto:nwadibiegoodness@gmail.com)
