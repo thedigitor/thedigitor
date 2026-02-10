@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Goodness Nwadibie
 ==========================================================================================================================================
 
-I'm a Data Analyst and Tech Writer for Tech Brands
+I'm a Data Analyst and Tech Writer for SaaS Brands
 ---------------
-I help tech founders turn their business data into actionable growth strategies through analysis and clear storytelling. I help them see the story behind their business data to drive growth, optimize conversion and scale revenue.
+I help saas founders turn their business data into actionable growth strategies through analysis and clear storytelling. I help them see the story behind their business data to drive growth, optimize conversion and scale revenue.
 
 * 🌍  I'm based in Abuja Nigeria
 * ✉️  You can contact me here: [nwadibiegoodness@gmail.com](mailto:nwadibiegoodness@gmail.com)
