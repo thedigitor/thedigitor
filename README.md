@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Data Analyst and Tech Writer for Tech Brands
 ---------------
-I help tech founders turn their business data into actionable growth strategies through analysis and clear storytelling. I help them see the story behind their business data to drive growth, optimize process, reduce churn and scale revenue.
+I help tech founders turn their business data into actionable growth strategies through analysis and clear storytelling. I help them see the story behind their business data to drive growth, optimize conversion, reduce churn and scale revenue.
 
 * 🌍  I'm based in Abuja Nigeria
 * ✉️  You can contact me here: [nwadibiegoodness@gmail.com](mailto:nwadibiegoodness@gmail.com)
