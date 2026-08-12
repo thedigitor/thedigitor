@@ -1,9 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Goodness Nwadibie
 ==========================================================================================================================================
 
-I'm a Data Analyst and Storyteller
+I'm a Growth Data Analyst and Tech Creator
 ---------------
-I help tech founders understand their business and product by turning their sales, marketing and customer data into actionable growth strategies through data analysis and clear storytelling. I help them see the story behind their business data to drive growth, optimize conversion, reduce churn and scale revenue.
+I help saas founders connect the dots across all their business data to find growth opportunities and drive better go to market decisions. I also share my POV on modern saas businesses.
+
+I help saas founders see the story behind their business data to drive growth, improve product, optimize conversion, reduce churn, enhance user experience and scale recurring revenue.
 
 * 🌍  I'm based in Abuja Nigeria
 * ✉️  You can contact me here: [nwadibiegoodness@gmail.com](mailto:nwadibiegoodness@gmail.com)
