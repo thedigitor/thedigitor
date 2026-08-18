@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Goodness Nwadibie
 ==========================================================================================================================================
 
-I'm a Growth Data Analyst and Tech Creator for SaaS Founders
+I'm a Data Analyst and Tech Creator for SaaS Founders
 ---------------
-I help saas founders connect the dots across all their business data to find growth opportunities and drive better go to market decisions. I also share my POV on modern saas businesses.
+I help saas founders understand and connect the dots across all their business data to find growth opportunities and drive better go to market decisions. I also share my POV on data, saas and AI through videos and writing.
 
 I help saas founders see the story behind their business data to drive growth, improve product, optimize conversion, reduce churn, enhance user experience and scale recurring revenue.
 
