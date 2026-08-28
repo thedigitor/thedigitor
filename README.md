@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Goodness Nwadibie
 ==========================================================================================================================================
 
-I'm a Data Analyst and Tech Creator for SaaS Founders
+I'm a Growth Data Analyst for E-commerce Brands
 ---------------
-I help saas founders understand and connect the dots across all their business data to find growth opportunities and drive better go to market decisions. I also share my POV on data, saas and AI through videos and writing.
+I help e-commerce brands understand and connect the dots across all their business data to find growth opportunities and drive better growth decisions.
 
-I help saas founders see the story behind their business data to drive growth, improve product, optimize conversion, reduce churn, enhance user experience and scale recurring revenue.
+I also help e-commerce brands see the story behind their business data to drive growth, improve product, optimize conversion, reduce churn, enhance user experience and scale revenue.
 
 * 🌍  I'm based in Abuja Nigeria
 * ✉️  You can contact me here: [nwadibiegoodness@gmail.com](mailto:nwadibiegoodness@gmail.com)
