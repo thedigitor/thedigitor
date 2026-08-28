@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Growth Data Analyst for E-commerce Brands
 ---------------
-I help e-commerce brands understand and connect the dots across all their business data to find growth opportunities and drive better growth decisions.
+I help e-commerce brands understand and connect the dots across all their business data to find growth opportunities and drive better growth strategies. 
 
 I also help e-commerce brands see the story behind their business data to drive growth, improve product, optimize conversion, reduce churn, enhance user experience and scale revenue.
 
