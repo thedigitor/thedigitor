@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Goodness Nwadibie
 ==========================================================================================================================================
 
-I'm a Growth Data Analyst and Strategist for E-commerce Brands
+I'm a Growth Data Analyst and Go-to-Market Strategist for E-commerce Brands
 ---------------
-I help e-commerce brands understand and connect the dots across all their business data to find growth opportunities and drive better growth strategies. 
+I help e-commerce brands understand and connect the dots across all their business data to find growth opportunities and drive better go-to-market strategies. 
 
 I also help e-commerce brands see the story behind their business data to drive growth, improve product, optimize conversion, reduce churn, enhance user experience and scale revenue.
 
