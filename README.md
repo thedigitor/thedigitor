@@ -8,7 +8,6 @@ I help e-commerce brands understand and connect the dots across all their busine
 I also help e-commerce brands see the story behind their business data to drive growth, improve product, optimize conversion, reduce churn, enhance user experience and scale revenue.
 
 * 🌍  I'm based in Abuja Nigeria
-* ✉️  You can contact me here: [nwadibiegoodness@gmail.com](mailto:nwadibiegoodness@gmail.com)
 * 👥  I'm looking to collaborate on Interesting Projects
 
 🌐 Socials:
